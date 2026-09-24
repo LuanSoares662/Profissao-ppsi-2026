@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+body{
+
+    background-color: #000000;
+}
+
+.NOME{
+    font-size: 100px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 420px;
+    color: white
+
+}
+
+
+
+
+.profissao{
+    text-align: center;
+    top: 250px;
+    position: relative;
+    left: 320px;
+    font-size: 50px;        
+   color: yellow;
+   font-family: cursive;
+
+}
+
+
